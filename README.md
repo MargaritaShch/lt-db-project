@@ -22,6 +22,7 @@
 ### Запуск
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/<username>/<repo>.git
+   git clone https://github.com/MargaritaShch/lt-db-project.git
    cd project
    
+
